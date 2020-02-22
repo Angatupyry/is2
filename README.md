@@ -2,8 +2,8 @@
 ## Enunciado del proyecto.
 ## Herramientas a utilizar
 ### Backend
-* [node.js] - evented I/O for the backend
-* [Express] - fast node.js network app framework [@tjholowaychuk]
+* [Node](https://nodejs.org/en/)
+* [Express](http://expressjs.com/)
 * [Repositorio] 
 #### Frontend
 * [VueJS](https://vuejs.org/)
