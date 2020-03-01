@@ -4,7 +4,7 @@
 ### Backend
 * [Node](https://nodejs.org/en/)
 * [Express](http://expressjs.com/)
-* [Repositorio] (https://github.com/Angatupyry/backendis2)
+* [Repositorio](https://github.com/Angatupyry/backendis2)
 #### Frontend
 * [VueJS](https://vuejs.org/)
 * [Repositorio]
