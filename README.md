@@ -7,7 +7,7 @@
 * [Repositorio](https://github.com/Angatupyry/backendis2)
 #### Frontend
 * [VueJS](https://vuejs.org/)
-* [Repositorio](https://github.com/acem0301/frontis2
+* [Repositorio](https://github.com/acem0301/frontis2)
 # Levantar el proyecto.
 
 Backend; 
