@@ -7,7 +7,21 @@
 * [Repositorio](https://github.com/Angatupyry/backendis2)
 #### Frontend
 * [VueJS](https://vuejs.org/)
-* [Repositorio](https://github.com/acem0301/frontis2)
+* [Repositorio](https://github.com/acem0301/frontis2
+# Levantar el proyecto.
+
+Backend; 
+```
+npm install
+npm start 
+```
+Frontend;
+```
+npm install
+npm run serve
+```
+Ambos deben estar en la rama master.
+
 # Entregables
 ## Entrega_01: 08/03 Login + Dashboard inicial
 ### Distribución de tareas. 
