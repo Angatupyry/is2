@@ -36,6 +36,9 @@ Ambos deben estar en la rama master.
 * Rodrigo Gómez : Creación de interfaz de rol en el issue crearRol. 
 
 # Versión 15/03 
-El sistema ya se conecta con la base de datos pero tenemos que lograr levantar postgres en un servidor free para que no se tenga que configrar la base de datos y correr el script en cada máquina que incia el proyecto. Por tanto, para esta entrega se usan datos en duro de usuarios. El frontend ya consume la API. 
+El sistema ya se conecta con la base de datos pero tenemos que lograr levantar postgres en un servidor free para que no se tenga que configrar la base de datos y correr el script en cada máquina que incia el proyecto. Por tanto, para esta entrega se usan datos en duro de usuarios. El frontend ya consume la API.
+## Usuario para login. 
+crolon 
+123
 
 
