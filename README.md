@@ -29,3 +29,13 @@ Ambos deben estar en la rama master.
 * Adriana Estigarribia; inicialización del proyecto frontend y avances. 
 * César Rolón; inicialización del proyecto backend y avances. 
 
+## Entrega_02: 15/03 Modulo Administracion (Crear Roles, Crear Usuarios, Asignar Roles a Usuarios)
+## Distribución de tareas.
+* César Rolón : backend, conexión con la base de datos. 
+* Adriana Estigarribia : frontend, vistas, componentes.
+* Rodrigo Gómez : Creación de interfaz de rol en el issue crearRol. 
+
+# Versión 15/03 
+El sistema ya se conecta con la base de datos pero tenemos que lograr levantar postgres en un servidor free para que no se tenga que configrar la base de datos y correr el script en cada máquina que incia el proyecto. Por tanto, para esta entrega se usan datos en duro de usuarios. El frontend ya consume la API. 
+
+
