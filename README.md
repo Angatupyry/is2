@@ -22,7 +22,7 @@ crolon
 * Adriana Estigarribia; inicialización del proyecto frontend y avances. 
 * César Rolón; inicialización del proyecto backend y avances. 
 
-## Entrega_02: 15/03 Modulo Administracion (Crear Roles, Crear Usuarios, Asignar Roles a Usuarios)
+## Entrega_02: 15/03 Módulo Administración (Crear Roles, Crear Usuarios, Asignar Roles a Usuarios)
 ## Distribución de tareas.
 * César Rolón : backend, conexión con la base de datos. 
 * Adriana Estigarribia : frontend, vistas, componentes.
