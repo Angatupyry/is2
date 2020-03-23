@@ -34,13 +34,13 @@ El sistema ya se conecta con la base de datos pero tenemos que lograr levantar p
 
 ## Entrega_03: 22/03 Módulo Desarrollo (Crear Proyecto, Crear Tareas, sin Conectar todavía)
 ## Distribución de tareas.
-* César Rolón : backend, frontned. Conexión de base de datos.  
-* Adriana Estigarribia : backend, frontend, vistas, componentes. 
+* César Rolón : backend, frontend.  
+* Adriana Estigarribia : backend, frontend. 
 * Rodrigo Gómez : backend. Listar Proyectos 
 * Arturo Arias: Gestión de configuración de datos en el servidor Heroku y Netilify
 
 # Versión 22/03 
-Estamos utilizando servidores de free en donde configurarmos la base de datos postgres. 
+Estamos utilizando servidores free en donde configurarmos la base de datos postgres. 
 El servidor nos permite crear 10 mil rows en la versión free. 
 El link del proyecto se encuentra al inicio.
 Faltan renderizar las vistas una vez que se crean proyectos e ítems. Es decir, no actualiza automáticamente, hay que ir hasta otra ruta y volver a acceder a la ruta anterior para ver los nuevos datos. Detalles que corregiremos en la próxima entrega. 
