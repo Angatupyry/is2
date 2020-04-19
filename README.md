@@ -50,6 +50,10 @@ Consideramos que no se puede eliminar un proyecto. Queremos inactivar una vez qu
 # Versión 19/04
 El sistema no tiene fases según convención indicada por la charla en meet. 
 Los ítem se asignan a un proyecto. El primer ítem de un proyecto será siempre con id_padre null y tendrá la opción de ser finalizado con un botón. Los demás ítems creados para el mismo proyecto no podrán inicializarse hasta que su padre se haya fnializado. 
+Un ítem cambia de estado automáticamente cuando se finaliza (FINALIZADO) y actualiza el estado de su hijo, si tiene, a INICIADO.
 Pueden haber tantos ítems por proyectos que se quiera. 
 Los roles son ADMINISTRADOR, LIDER y DESARROLLADOR. Los usuarios visualizan el contenido dependiendo de su rol. 
+
+# Glosario
+Ítem: tarea, issue, problema.
 
