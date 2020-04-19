@@ -46,3 +46,10 @@ El link del proyecto se encuentra al inicio.
 Faltan renderizar las vistas una vez que se crean proyectos e ítems. Es decir, no actualiza automáticamente, hay que ir hasta otra ruta y volver a acceder a la ruta anterior para ver los nuevos datos. Detalles que corregiremos en la próxima entrega. 
 Consideramos que no se puede eliminar un proyecto. Queremos inactivar una vez que finalicen todas las fases automáticamente (en un futuro). Ídem para ítem. 
 
+## Entrega_04: 19/04 Modulo Desarrollo (Agregar Tareas a proyecto, Conectar Tareas entre sí)
+# Versión 19/04
+El sistema no tiene fases según convención indicada por la charla en meet. 
+Los ítem se asignan a un proyecto. El primer ítem de un proyecto será siempre con id_padre null y tendrá la opción de ser finalizado con un botón. Los demás ítems creados para el mismo proyecto no podrán inicializarse hasta que su padre se haya fnializado. 
+Pueden haber tantos ítems por proyectos que se quiera. 
+Los roles son ADMINISTRADOR, LIDER y DESARROLLADOR. Los usuarios visualizan el contenido dependiendo de su rol. 
+
