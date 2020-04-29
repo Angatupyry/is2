@@ -54,8 +54,8 @@ Un ítem cambia de estado automáticamente cuando se finaliza (FINALIZADO) y act
 Pueden haber tantos ítems por proyectos que se quiera. 
 Los roles son ADMINISTRADOR, LIDER y DESARROLLADOR. Los usuarios visualizan el contenido dependiendo de su rol. 
 
-# Glosario
-Ítem: tarea, issue, problema.
-
 # Entregas posteriores
 Debido a la pandemia COVID-19 el grupo 1 decidió poner en pausa las entregas según el ACTA 1077/13/04/2020 del consejo directivo de la Facultad Politécnica dictado en el punto 20/08/02-01 "POSPONER las Actividades Académicas hasta el 31 de julio de 2020"
+
+# Glosario
+Ítem: tarea, issue, problema.
