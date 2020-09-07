@@ -58,10 +58,11 @@ Los roles son ADMINISTRADOR, LIDER y DESARROLLADOR. Los usuarios visualizan el c
 Debido a la pandemia COVID-19 el grupo 1 decidió poner en pausa las entregas según el ACTA 1077/13/04/2020 del consejo directivo de la Facultad Politécnica dictado en el punto 20/08/02-01 "POSPONER las Actividades Académicas hasta el 31 de julio de 2020"
 
 ## Entrega_05: 06/09 Módulo Configuración (Seleccionar ciertas tareas y crear Línea base)
+# Versión 06/09
 La creación de línea base se realiza en el módulo de configuración. 
 Se bloquean aquellas tareas que pertenezcan a una línea base (el ícono de editar se inhabilita en el listado de Ítems).
 
-# Versión 19/04
+
 
 # Glosario
 Ítem: tarea, issue, problema.
